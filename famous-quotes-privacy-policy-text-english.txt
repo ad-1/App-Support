@@ -21,7 +21,7 @@ Definitions
 
   * Service
 
-    Service is the my.Quotes mobile application operated by my.Quotes
+    Service is the Famous Quotes - Quote Maker mobile application operated by Famous Quotes
 
   * Personal Data
 
@@ -94,7 +94,7 @@ Examples of Cookies we use:
 Use of Data  
 -----------
 
-my.Quotes uses the collected data for various purposes:
+The Service uses the collected data for various purposes:
 
   * To provide and maintain the Service
   * To notify you about changes to our Service
@@ -121,7 +121,7 @@ process it there.
 Your consent to this Privacy Policy followed by your submission of such
 information represents your agreement to that transfer.
 
-my.Quotes will take all steps reasonably necessary to ensure that your data is
+The Service will take all steps reasonably necessary to ensure that your data is
 treated securely and in accordance with this Privacy Policy and no transfer of
 your Personal Data will take place to an organization or a country unless
 there are adequate controls in place including the security of your data and
@@ -133,11 +133,11 @@ Disclosure Of Data
 Legal Requirements  
 ~~~~~~~~~~~~~~~~~~
 
-my.Quotes may disclose your Personal Data in the good faith belief that such
+The Service may disclose your Personal Data in the good faith belief that such
 action is necessary to:
 
   * To comply with a legal obligation
-  * To protect and defend the rights or property of my.Quotes
+  * To protect and defend the rights or property of The Service
   * To prevent or investigate possible wrongdoing in connection with the
     Service
   * To protect the personal safety of users of the Service or the public
