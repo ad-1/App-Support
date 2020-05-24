@@ -3,7 +3,7 @@ Privacy Policy
 
 Effective date: December 10, 2019
 
-DumbJokes ("us", "we", or "our") operates the 'Dumb Jokes' mobile application
+Dumb Jokes ("us", "we", or "our") operates the 'Dumb Jokes' mobile application
 (hereinafter referred to as the "Service").
 
 This page informs you of our policies regarding the collection, use, and
@@ -21,7 +21,7 @@ Definitions
 
   * Service
 
-    Service is the DumbJokes mobile application operated by DumbJokes
+    Service is the Dumb Jokes mobile application operated by Andrew Davies
 
   * Personal Data
 
