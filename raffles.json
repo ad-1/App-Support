@@ -1,5 +1,6 @@
 [
     {
+        "raffleId": "5170142345",
         "title": "MacBook Pro",
         "description": "13‑inch Space Grey - 1.4GHz quad-core 8th‑generation Intel Core i5 processor, Turbo Boost up to 3.9GHz",
         "category": "Tech",
@@ -8,9 +9,11 @@
         "actualValue": 1504.10,
         "numberOfTickets": 2500,
         "ticketSaleThreshold": 2400,
+        "drawTime": "1702176314",
         "previewImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-space-gallery1-202005?wid=4000&hei=3072&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1587627861720"
     },
     {
+        "raffleId": "5015515155",
         "title": "iPhone 11",
         "description": "Liquid Retina HD display 6.1‑inch (diagonal) all-screen LCD Multi-Touch display with IPS technology",
         "category": "Tech",
@@ -19,9 +22,11 @@
         "actualValue": 815.50,
         "numberOfTickets": 1000,
         "ticketSaleThreshold": 850,
+        "drawTime": "1702176314",
         "previewImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone11-black-select-2019_GEO_EMEA?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1567021766023"
     },
     {
+        "raffleId": "7597445975",
         "title": "LG 86\" Smart 4K UHD TV",
         "description": "86UN85006LA",
         "category": "Tech",
@@ -30,17 +35,20 @@
         "actualValue": 2251.97,
         "numberOfTickets": 10000,
         "ticketSaleThreshold": 4000,
+        "drawTime": "1702176314",
         "previewImage": "https://www.laptopsdirect.ie/Images/86UN85006LA_1_LargeProductImage.jpg?width=450&height=450&v=1"
     },
     {
-        "title": "Galaxy Watch 3 45mm Silver",
-        "description": "Control your day from your wrist. ",
+        "raffleId": "2996850043",
+        "title": "Galaxy Watch 3",
+        "description": "45mm Silver - Control your day from your wrist. ",
         "category": "Tech",
         "currency": "€",
         "ticketPrice": 10.00,
         "actualValue": 479.00,
         "numberOfTickets": 100,
         "ticketSaleThreshold": 80,
+        "drawTime": "1702176314",
         "previewImage": "https://shop.samsung.com/ie/4136-slick_default/galaxy-watch-3.jpg"
     }
 ]
