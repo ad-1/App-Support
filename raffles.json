@@ -15,7 +15,7 @@
         "description": "Liquid Retina HD display 6.1‑inch (diagonal) all-screen LCD Multi-Touch display with IPS technology",
         "category": "Tech",
         "currency": "EURO",
-        "ticketPrice": 1,
+        "ticketPrice": 1.00,
         "actualValue": 815.50,
         "numberOfTickets": 1000,
         "ticketSaleThreshold": 850,
