@@ -1,0 +1,24 @@
+[
+    {
+        "title": "13‑inch MacBook Pro - Space Grey ",
+        "description": "1.4GHz quad-core 8th‑generation Intel Core i5 processor, Turbo Boost up to 3.9GHz",
+        "category": "Tech",
+        "currency": "EURO",
+        "ticketPrice": 0.65,
+        "actualValue": 1504.10,
+        "numberOfTickets": 2500,
+        "ticketSaleThreshold": 2400,
+        "previewImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-space-gallery1-202005?wid=4000&hei=3072&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1587627861720"
+    },
+    {
+        "title": "iPhone 11",
+        "description": "Liquid Retina HD display 6.1‑inch (diagonal) all-screen LCD Multi-Touch display with IPS technology",
+        "category": "Tech",
+        "currency": "EURO",
+        "ticketPrice": 1,
+        "actualValue": 815.50,
+        "numberOfTickets": 1000,
+        "ticketSaleThreshold": 850,
+        "previewImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone11-black-select-2019_GEO_EMEA?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1567021766023"
+    }
+]
